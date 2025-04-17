@@ -13,7 +13,7 @@
 			"name": "bin"
 		}
 	],
-	"clientFolder": "false",
+	"clientFolder": "",
 	"newClientUrl" : "https://zandoria.com.br/Zandoria-client-1340-win.zip",
 	"clientExecutable": "bin/zandoria.exe"
 }
