@@ -1,5 +1,5 @@
 {
-	"clientVersion": "13.40.03",
+	"clientVersion": "13.40.04",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "",
-	"newClientUrl" : "https://zandoria.com.br/downloads/Zandoria-client-1340.zip",
+	"newClientUrl" : "https://zandoria.com.br/downloads/update134004.zip",
 	"clientExecutable": "zandoria.exe"
 }
