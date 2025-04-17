@@ -15,5 +15,5 @@
 	],
 	"clientFolder": "",
 	"newClientUrl" : "https://zandoria.com.br/downloads/Zandoria-client-1340.zip",
-	"clientExecutable": "bin/zandoria.exe"
+	"clientExecutable": "zandoria.exe"
 }
